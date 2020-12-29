@@ -44,5 +44,5 @@ app.get('/userlist',router.showUserlist)
 
 // app.get('/xixi', router.showxixi)
 
-
+//设置端口号
 app.listen(2222)
